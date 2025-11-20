@@ -7,11 +7,6 @@
 
 #include "board.h"
 
-#define BOARD_
-
-typedef struct{
-
-};
 
 void board_start();
 void board_i2c_lock();

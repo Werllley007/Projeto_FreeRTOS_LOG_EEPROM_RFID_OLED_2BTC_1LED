@@ -41,6 +41,7 @@
 
 /* Private variables ---------------------------------------------------------*/
 I2C_HandleTypeDef hi2c2;
+
 I2C_HandleTypeDef hi2c3;
 
 SPI_HandleTypeDef hspi1;
