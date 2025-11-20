@@ -182,4 +182,4 @@ Source File
 -> callbacks.c
 ```
 
-<img src="imagem/esquematico_1_1.png" alt="esquematico" width="80%" />
+<img src="imagem/esquematico_1_1.png" alt="esquematico" width="100%" />
